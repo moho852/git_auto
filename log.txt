@@ -1,0 +1,11 @@
+상태 : cpu가 정상 상태입니다.           시간 : Wed Jun 12 10:58:02 UTC 2024       cup : 0 %
+상태 : cpu가 정상 상태입니다.           시간 : Wed Jun 12 10:58:02 UTC 2024       cup : 0 %
+상태 : cpu가 정상 상태입니다.           시간 : Wed Jun 12 10:58:03 UTC 2024       cup : 0 %
+상태 : cpu가 정상 상태입니다.           시간 : Wed Jun 12 10:58:03 UTC 2024       cup : 0 %
+상태 : cpu가 정상 상태입니다.           시간 : Wed Jun 12 10:58:03 UTC 2024       cup : 0 %
+상태 : cpu가 임계값을 넘었습니다.	      시간 : Wed Jun 12 10:58:04 UTC 2024       cup : 9 %
+상태 : cpu가 정상 상태입니다.           시간 : Wed Jun 12 10:58:04 UTC 2024       cup : 0 %
+상태 : cpu가 정상 상태입니다.           시간 : Wed Jun 12 10:58:05 UTC 2024       cup : 0 %
+상태 : cpu가 정상 상태입니다.           시간 : Wed Jun 12 10:58:05 UTC 2024       cup : 0 %
+상태 : cpu가 임계값을 넘었습니다.	      시간 : Wed Jun 12 10:58:06 UTC 2024       cup : 8 %
+상태 : cpu가 정상 상태입니다.           시간 : Wed Jun 12 10:58:06 UTC 2024       cup : 0 %
